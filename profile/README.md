@@ -22,6 +22,11 @@ Los participantes aprenden a asegurar la calidad de una feature real aplicando:
 - 🧩 **Trabajo en equipo orientado a calidad**  
 
 ---
+## 📚 Documentación y Wiki
+Consulta la documentación colaborativa del programa en nuestra wiki oficial:
+
+👉 [QAX Real Experience Wiki](https://github.com/QAX-Real-Experience/.github/wiki)
+---
 
 ## 🧭 Principios clave
 | Principio | Descripción |
