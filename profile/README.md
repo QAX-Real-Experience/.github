@@ -83,6 +83,7 @@ Durante cada sprint, los participantes:
 | 🤝 **Pair Review Flow** | Validaciones cruzadas entre compañeros |
 | ⚙️ **CI/CD Execution** | Ejecuciones automáticas integradas al flujo del proyecto |
 | 👨‍🏫 **Acompañamiento** | Recibira un feedback por el mentor experto del framework |
+| 📚 **Wiki** | Documentación oficial del programa, metodología, ceremonias y guías de trabajo |
 
 ---
 
