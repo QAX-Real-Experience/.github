@@ -3,7 +3,7 @@
   <img src="https://github.com/Training-Ninja-For-Testing/.github/blob/main/assets/banner-qaxpert.png" alt="QAXpert - Ninja For Testing" width="100%">
 </p>
 
-# ⚡ Welcome to **QAX Real Experience** by [QAXpert](https://qaxpert.com
+# ⚡ Welcome to **QAX Real Experience** by [QAXpert](https://qaxpert.com)
 
 🚀 Un programa donde los aprendices viven la experiencia real de trabajar como **QA Automation** dentro de un equipo ágil que construye un producto real.  
 Aquí la práctica ocurre en contexto: **features reales**, **sprints**, **automatización**, **CI/CD**, **pair review** y trabajo colaborativo con enfoque en calidad.
