@@ -119,6 +119,11 @@ Consulta la documentación colaborativa del programa en nuestra wiki oficial:
 
 👉 [QAX Real Experience Wiki](https://github.com/QAX-Real-Experience/.github/wiki)
 
+
+##  ⚡ Tablero de los tickets
+Consulta tus asignaciones:
+
+👉 [Project Github - Campus QAX](https://github.com/orgs/QAX-Real-Experience/projects/1)
 ---
 
 ## 🌐 Conecta con QAXpert
