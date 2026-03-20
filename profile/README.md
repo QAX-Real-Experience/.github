@@ -89,7 +89,7 @@ Durante cada sprint, los participantes:
 ## 📊 Estado de participación y proyectos
 | Proyecto | Tipo | Estado | Tecnologías |
 |----------|------|--------|-------------|
-| Próximamente | Sprint real | ![status](https://img.shields.io/badge/status-coming%20soon-lightgrey?style=flat-square) | ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2E7D32?style=flat-square) ![QA](https://img.shields.io/badge/QA%20Automation-01C96E?style=flat-square) |
+| [Campus QAX](https://github.com/QAX-Real-Experience/campus-qax) | Sprint real | ![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) |
 
 ---
 
