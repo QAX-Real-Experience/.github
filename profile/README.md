@@ -82,6 +82,7 @@ Durante cada sprint, los participantes:
 | 📄 **Sprint Evidence** | Evidencias de ejecución, resultados y revisiones |
 | 🤝 **Pair Review Flow** | Validaciones cruzadas entre compañeros |
 | ⚙️ **CI/CD Execution** | Ejecuciones automáticas integradas al flujo del proyecto |
+| 👨‍🏫 **Acompañamiento** | Recibira un feedback por el mentor experto del framework |
 
 ---
 
