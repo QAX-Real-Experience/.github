@@ -93,7 +93,13 @@ Durante cada sprint, los participantes:
 | [Campus QAX](https://github.com/QAX-Real-Experience/campus-qax) | Sprint real | ![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) |
 
 ---
-
+## 🧪 Repositorios de automatización
+| Repositorio | Nivel | Framework | Lenguaje | Tecnologías |
+|-------------|-------|-----------|----------|-------------|
+| [qax-real-exp-apis-st](https://github.com/QAX-Real-Experience/qax-real-exp-apis-st) | APIs | Serenity Rest | Java | ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square) ![Maven](https://img.shields.io/badge/Maven-C71A36?logo=apachemaven&logoColor=white&style=flat-square) ![RestAssured](https://img.shields.io/badge/Rest%20Assured-6DB33F?style=flat-square) ![Serenity](https://img.shields.io/badge/Serenity%20BDD-1D70B8?style=flat-square) |
+| [qax-real-exp-apis-pw](https://github.com/QAX-Real-Experience/qax-real-exp-apis-pw) | APIs | Playwright | TypeScript | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square) |
+| [qax-real-exp-apis-kt](https://github.com/QAX-Real-Experience/qax-real-exp-apis-kt) | APIs | Karate | DSL / JVM | ![Karate](https://img.shields.io/badge/Karate-000000?style=flat-square) ![Java](https://img.shields.io/badge/JVM-ED8B00?logo=openjdk&logoColor=white&style=flat-square) |
+---
 ## 🧩 ¿Qué hace diferente a QAX Real Experience?
 Porque no se trata solo de automatizar pruebas, sino de aprender a hacerlo dentro de un contexto real de trabajo:
 
