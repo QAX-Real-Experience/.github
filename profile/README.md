@@ -90,7 +90,7 @@ Durante cada sprint, los participantes:
 ## 📊 Estado de participación y proyectos
 | Proyecto | Tipo | Estado | Tecnologías |
 |----------|------|--------|-------------|
-| [QAX-TERMINAL](https://github.com/QAX-Real-Experience/campus-qax) | Sprint real | ![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) |
+| [QAX-TERMINAL](https://github.com/orgs/QAX-Real-Experience/projects/1) | Sprint real | ![status](https://img.shields.io/badge/status-in%20progress-yellow?style=flat-square) | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=flat-square) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white&style=flat-square) |
 
 ---
 ## 🧪 Repositorios de automatización
