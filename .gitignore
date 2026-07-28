@@ -1,0 +1,4 @@
+# Config de agentes OpenCode — local, no subir al repo de la org
+.opencode/
+opencode.json
+AGENTS.md
