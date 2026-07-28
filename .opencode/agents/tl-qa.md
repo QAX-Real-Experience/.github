@@ -63,7 +63,7 @@ Reglas:
 - **PRs de aprendices:** deben traer evidencia/ejecución. Si no la traen, pídela.
 - **Issues `[BUG]`:** los crean los **aprendices**. Tú **NO creas issues de bugs**. Solo dejas comentarios de corrección en el PR. Las HUs/tickets sí los creas tú.
 
-## Definition of Ready (DoR) — structur de cada ticket que crees
+## Definition of Ready (DoR) — estructura de cada ticket que crees
 
 Cada tarea que muevas a `Ready` debe tener:
 
